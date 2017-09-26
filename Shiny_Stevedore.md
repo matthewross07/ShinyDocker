@@ -31,7 +31,7 @@ The core server is setup with many of R's most popular packages, but most likely
 
     'gdebi-core', and 'gdal-bin libgdal1-dev libproj-dev'
 
-##Starting app using stevedore
+## Starting app using stevedore
 
 Now that your repository is ready we can host it!  Stevedore is the web hosting environment where you will host your app.
 
